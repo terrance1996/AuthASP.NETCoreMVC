@@ -42,4 +42,3 @@ app.Run();
 
 //https://www.youtube.com/watch?v=wzaoQiS_9dI
 //https://github.com/CodAffection/Asp.Net-Core-MVC-Identity---Complete-User-Authentication-System
-//10:30
