@@ -230,10 +230,8 @@ E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
@@ -247,8 +245,6 @@ E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Mono.TextTemplating.dll
-E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\System.CodeDom.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\System.Memory.Data.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\System.Runtime.Caching.dll
@@ -260,3 +256,12 @@ E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 E:\CourseProject\ASP\AuthTest\obj\Debug\net7.0\AuthTest.MvcApplicationPartsAssemblyInfo.cs
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\System.CodeDom.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\MailKit.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\MimeKit.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\CourseProject\ASP\AuthTest\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
