@@ -12,7 +12,6 @@ namespace AuthTest.Services
 
         public MailService() { }
 
-
         // Send mail
         public async Task SendMail(MailContent mailContent)
         {
