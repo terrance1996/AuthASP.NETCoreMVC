@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 namespace AuthTest.Controllers
 {
-    [Authorize]
+    [AllowAnonymous]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -21,6 +21,10 @@ namespace AuthTest.Controllers
 
         public IActionResult Index()
         {
+            if (this.User.IsInRole("Admin"))
+            {
+                return Redirect("Admin");
+            }
             ViewData["UserID"] = _userManager.GetUserId(this.User);
             return View();
         }

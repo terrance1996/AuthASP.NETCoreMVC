@@ -8,7 +8,7 @@ var connectionString = builder.Configuration.GetConnectionString("AuthDbContextC
 
 builder.Services.AddDbContext<AuthDbContext>(options => options.UseNpgsql(connectionString));
 
-builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<AuthDbContext>();
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddRoles<IdentityRole>().AddEntityFrameworkStores<AuthDbContext>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -138,6 +138,9 @@ namespace AuthTest.Areas.Identity.Pages.Account
 
                 if (result.Succeeded)
                 {
+                    // Assign Role for User
+                    await _userManager.AddToRoleAsync(user, "Client");
+
                     _logger.LogInformation("User created a new account with password.");
 
                     var userId = await _userManager.GetUserIdAsync(user);
